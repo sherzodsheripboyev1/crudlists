@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState, setData } from 'react'
 // import "../index.csss"
 
 
-function clearin({ setValue, element, data_id }) {
+function Clearin({ setValue, element, data_id }) {
 
     // const nameRef = useRef();
     // const authorRef = useRef();
@@ -128,4 +128,4 @@ function clearin({ setValue, element, data_id }) {
     )
 }
 
-export default clearin;
+export default Clearin;

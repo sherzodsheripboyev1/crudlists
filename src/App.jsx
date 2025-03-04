@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Clearin from "./components/clearin"
+import Clearin from "./components/Clearin.jsx"
 import Table from "./components/Table"
 
 
