@@ -12,7 +12,7 @@ function Table({ dats, useArr, setData }) {
 
   return (
     <>
-      <table className='w-[80%] mx-auto border-2 border-gray-400 my-5 text-xl'>
+      <table className='w-[80%] font-semibold mx-auto border-2 border-gray-400 my-5 text-xl'>
         <thead>
           <tr>
             <th className='border-2 border-gray-400 px-3 py-1'>N1</th>
