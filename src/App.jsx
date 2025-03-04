@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Clearin from "./components/Clearin.jsx"
-import Table from "./components/Table"
+import Table from "./components/Table.jsx"
 
 
 function App() {
